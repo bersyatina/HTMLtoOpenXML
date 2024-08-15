@@ -1,6 +1,6 @@
 {
-  "name": "rkorebrits/htmltoopenxml",
-  "license": "LGPL-3.0",
+  "name": "bersyatina/htmltoopenxml",
+  "license": "MIT",
   "description": "Convert HTML to OpenOfficeXML",
   "keywords": [
     "OOXML", "HTML"
@@ -8,8 +8,8 @@
   "type": "library",
   "authors": [
       {
-          "name": "Richard Korebrits",
-          "email": "richard@korebrits.com"
+          "name": "Andrey Apanasenko",
+          "email": "aw_apanasenko@mail.ru"
       }
   ],
   "require": {
